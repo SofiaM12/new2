@@ -1,0 +1,5 @@
+print "Hello world!!!"
+git init
+git status
+git add nameoffile
+git commit -m "comment" ....
