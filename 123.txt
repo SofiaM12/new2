@@ -1,4 +1,4 @@
-print "Hello world!!!"
+print "Hello"
 git init
 git status
 git add nameoffile
